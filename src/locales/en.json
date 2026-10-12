@@ -1,0 +1,59 @@
+{
+  "option": {
+    "home": "Home",
+    "examiner-performance-overview": "Examiner Performance Overview"
+  },
+  "toolbar": {
+    "company-name": "Hartford Institute for Geriatric Nursing",
+    "logo-alt": "HIGN logo",
+    "navigation": "Main navigation",
+    "language-selector": "Select language"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Welcome to HIGN"
+  },
+  "mental-state-exam-analytics": {
+    "title": "Mental State Exam Analytics",
+    "subtitle": "Score Analytics",
+    "exam-count": "Exam Count",
+    "highest-score": "Highest Score",
+    "lowest-score": "Lowest Score",
+    "average-score": "Average Score"
+  },
+  "examiner-performance-overview": {
+    "title": "Examiner Performance Overview",
+    "npi": "NPI",
+    "subtitle": "Mental State Exam Performance",
+    "assigned-exam-count": "Current Assigned Mental State Exam Count",
+    "average-assigned-exam-total-score": "Average Assigned Mental State Exam Total Score",
+    "empty": "No examiners available."
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The path {unavailable-route} was not found.",
+    "go-home": "Go Home"
+  },
+  "common": {
+    "loading": "Loading...",
+    "no-data": "No data available"
+  },
+  "errors": {
+    "occurred": "An error occurred.",
+    "load-examiners": "Unable to load examiners.",
+    "load-mental-state-exams": "Unable to load mental state exams."
+  },
+  "assignment": {
+    "title": "Assign Mental State Exam",
+    "exam": "Exam",
+    "select-exam": "Select an exam",
+    "patient-id": "Patient ID",
+    "current-examiner": "Current examiner",
+    "total-score": "Total score",
+    "new-examiner": "New examiner",
+    "select-examiner": "Select an examiner",
+    "assign": "Assign",
+    "cancel": "Cancel",
+    "save-error": "Unable to save the assignment. Please try again."
+  }
+}

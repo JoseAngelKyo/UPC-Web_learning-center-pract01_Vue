@@ -1,0 +1,59 @@
+{
+  "option": {
+    "home": "Inicio",
+    "examiner-performance-overview": "Resumen del rendimiento de evaluadores"
+  },
+  "toolbar": {
+    "company-name": "Hartford Institute for Geriatric Nursing",
+    "logo-alt": "Logotipo de HIGN",
+    "navigation": "Navegación principal",
+    "language-selector": "Seleccionar idioma"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Bienvenido a HIGN"
+  },
+  "mental-state-exam-analytics": {
+    "title": "Análisis de exámenes del estado mental",
+    "subtitle": "Análisis de puntajes",
+    "exam-count": "Cantidad de evaluaciones",
+    "highest-score": "Calificación total más alta",
+    "lowest-score": "Calificación total más baja",
+    "average-score": "Calificación total promedio"
+  },
+  "examiner-performance-overview": {
+    "title": "Resumen del rendimiento de evaluadores",
+    "npi": "NPI",
+    "subtitle": "Rendimiento en exámenes del estado mental",
+    "assigned-exam-count": "Cantidad actual de exámenes del estado mental asignados",
+    "average-assigned-exam-total-score": "Promedio de calificación total de exámenes del estado mental asignados",
+    "empty": "No hay evaluadores disponibles."
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content": "No se encontró la ruta {unavailable-route}.",
+    "go-home": "Volver al inicio"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "no-data": "No hay datos disponibles"
+  },
+  "errors": {
+    "occurred": "Ocurrió un error.",
+    "load-examiners": "No se pudieron cargar los evaluadores.",
+    "load-mental-state-exams": "No se pudieron cargar los exámenes del estado mental."
+  },
+  "assignment": {
+    "title": "Asignar examen del estado mental",
+    "exam": "Examen",
+    "select-exam": "Selecciona un examen",
+    "patient-id": "ID del paciente",
+    "current-examiner": "Evaluador actual",
+    "total-score": "Puntaje total",
+    "new-examiner": "Nuevo evaluador",
+    "select-examiner": "Selecciona un evaluador",
+    "assign": "Asignar",
+    "cancel": "Cancelar",
+    "save-error": "No se pudo guardar la asignación. Inténtalo nuevamente."
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "examiners": [
+    {
+      "id": 1,
+      "firstName": "Ana",
+      "lastName": "Torres",
+      "nationalProviderIdentifier": "1000000001"
+    },
+    {
+      "id": 2,
+      "firstName": "Luis",
+      "lastName": "Ramirez",
+      "nationalProviderIdentifier": "1000000002"
+    },
+    {
+      "id": 3,
+      "firstName": "Maria",
+      "lastName": "Lopez",
+      "nationalProviderIdentifier": "1000000003"
+    },
+    {
+      "id": 4,
+      "firstName": "Carlos",
+      "lastName": "Vega",
+      "nationalProviderIdentifier": "1000000004"
+    },
+    {
+      "id": 5,
+      "firstName": "Elena",
+      "lastName": "Castro",
+      "nationalProviderIdentifier": "1000000005"
+    }
+  ],
+  "mental-state-exams": [
+    {
+      "id": 1,
+      "patientId": 101,
+      "examinerId": 3,
+      "examDate": "2024-04-01",
+      "orientationScore": 10,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 5,
+      "recallScore": 3,
+      "languageScore": 9
+    },
+    {
+      "id": 2,
+      "patientId": 102,
+      "examinerId": 2,
+      "examDate": "2024-04-02",
+      "orientationScore": 8,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 4,
+      "recallScore": 2,
+      "languageScore": 8
+    },
+    {
+      "id": 3,
+      "patientId": 103,
+      "examinerId": 1,
+      "examDate": "2024-04-03",
+      "orientationScore": 7,
+      "registrationScore": 2,
+      "attentionAndCalculationScore": 3,
+      "recallScore": 1,
+      "languageScore": 7
+    },
+    {
+      "id": 4,
+      "patientId": 104,
+      "examinerId": 2,
+      "examDate": "2024-04-04",
+      "orientationScore": 9,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 5,
+      "recallScore": 2,
+      "languageScore": 8
+    },
+    {
+      "id": 5,
+      "patientId": 105,
+      "examinerId": 2,
+      "examDate": "2024-04-05",
+      "orientationScore": 6,
+      "registrationScore": 2,
+      "attentionAndCalculationScore": 2,
+      "recallScore": 1,
+      "languageScore": 6
+    },
+    {
+      "id": 6,
+      "patientId": 106,
+      "examinerId": 2,
+      "examDate": "2024-04-06",
+      "orientationScore": 10,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 4,
+      "recallScore": 3,
+      "languageScore": 9
+    },
+    {
+      "id": 7,
+      "patientId": 107,
+      "examinerId": 2,
+      "examDate": "2024-04-07",
+      "orientationScore": 8,
+      "registrationScore": 2,
+      "attentionAndCalculationScore": 3,
+      "recallScore": 2,
+      "languageScore": 8
+    },
+    {
+      "id": 8,
+      "patientId": 108,
+      "examinerId": 2,
+      "examDate": "2024-04-08",
+      "orientationScore": 5,
+      "registrationScore": 1,
+      "attentionAndCalculationScore": 2,
+      "recallScore": 0,
+      "languageScore": 5
+    },
+    {
+      "id": 9,
+      "patientId": 109,
+      "examinerId": 2,
+      "examDate": "2024-04-09",
+      "orientationScore": 9,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 4,
+      "recallScore": 2,
+      "languageScore": 8
+    },
+    {
+      "id": 10,
+      "patientId": 110,
+      "examinerId": 2,
+      "examDate": "2024-04-10",
+      "orientationScore": 7,
+      "registrationScore": 2,
+      "attentionAndCalculationScore": 3,
+      "recallScore": 2,
+      "languageScore": 7
+    },
+    {
+      "id": 11,
+      "patientId": 111,
+      "examinerId": 3,
+      "examDate": "2024-04-11",
+      "orientationScore": 10,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 5,
+      "recallScore": 2,
+      "languageScore": 9
+    },
+    {
+      "id": 12,
+      "patientId": 112,
+      "examinerId": 3,
+      "examDate": "2024-04-12",
+      "orientationScore": 8,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 3,
+      "recallScore": 2,
+      "languageScore": 7
+    },
+    {
+      "id": 13,
+      "patientId": 113,
+      "examinerId": 3,
+      "examDate": "2024-04-13",
+      "orientationScore": 4,
+      "registrationScore": 1,
+      "attentionAndCalculationScore": 1,
+      "recallScore": 0,
+      "languageScore": 4
+    },
+    {
+      "id": 14,
+      "patientId": 114,
+      "examinerId": 3,
+      "examDate": "2024-04-14",
+      "orientationScore": 9,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 4,
+      "recallScore": 3,
+      "languageScore": 8
+    },
+    {
+      "id": 15,
+      "patientId": 115,
+      "examinerId": 3,
+      "examDate": "2024-04-15",
+      "orientationScore": 6,
+      "registrationScore": 2,
+      "attentionAndCalculationScore": 2,
+      "recallScore": 1,
+      "languageScore": 5
+    },
+    {
+      "id": 16,
+      "patientId": 116,
+      "examinerId": 4,
+      "examDate": "2024-04-16",
+      "orientationScore": 10,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 5,
+      "recallScore": 3,
+      "languageScore": 8
+    },
+    {
+      "id": 17,
+      "patientId": 117,
+      "examinerId": 4,
+      "examDate": "2024-04-17",
+      "orientationScore": 8,
+      "registrationScore": 2,
+      "attentionAndCalculationScore": 4,
+      "recallScore": 2,
+      "languageScore": 7
+    },
+    {
+      "id": 18,
+      "patientId": 118,
+      "examinerId": 4,
+      "examDate": "2024-04-18",
+      "orientationScore": 5,
+      "registrationScore": 2,
+      "attentionAndCalculationScore": 1,
+      "recallScore": 1,
+      "languageScore": 5
+    },
+    {
+      "id": 19,
+      "patientId": 119,
+      "examinerId": 4,
+      "examDate": "2024-04-19",
+      "orientationScore": 9,
+      "registrationScore": 3,
+      "attentionAndCalculationScore": 5,
+      "recallScore": 2,
+      "languageScore": 9
+    },
+    {
+      "id": 20,
+      "patientId": 120,
+      "examinerId": 4,
+      "examDate": "2024-04-20",
+      "orientationScore": 7,
+      "registrationScore": 2,
+      "attentionAndCalculationScore": 3,
+      "recallScore": 1,
+      "languageScore": 6
+    }
+  ]
+}
